@@ -27,7 +27,5 @@ Python · Hugging Face Transformers · FAISS · Sentence Transformers · BART ·
 - Enhanced transparency and fairness in bias classification  
 - Demonstrated RAG’s potential for media bias research
 
-### 🔒 Privacy Notice
-The complete codebase and dataset are stored in a **private repository** to prevent misuse and plagiarism.  
 
 ---
